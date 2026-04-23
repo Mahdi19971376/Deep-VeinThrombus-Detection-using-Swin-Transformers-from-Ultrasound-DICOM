@@ -1,0 +1,2 @@
+# Deep-Vein-Thrombus-Detection-using-Swin-Transformers-from-Ultrasound-DICOM
+End-to-end DL pipeline for DVT detection in raw B-mode ultrasound DICOMs. Moving beyond operator-dependent manual methods, it uses a Swin Transformer to extract patterns directly from vascular imaging—no segmentation or handcrafted features required. High-performance, transformer-based medical imaging for clinical diagnostic support.
